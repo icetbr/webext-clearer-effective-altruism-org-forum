@@ -1,0 +1,7 @@
+{
+    "namespace": "https://github.com/icetbr/userscripts",
+    "icon": "https://www.google.com/s2/favicons?sz=64&domain=effectivealtruism.org",
+    "license": "MIT",
+    "updateURL": "https://openuserjs.org/meta/icetbr/Clearer_EffectiveAltruism.org_Forum.meta.js",
+    "downloadURL": "https://openuserjs.org/src/scripts/icetbr/Clearer_EffectiveAltruism.org_Forum.user.js"
+}

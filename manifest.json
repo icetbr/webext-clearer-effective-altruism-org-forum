@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "name": "Clearer EffectiveAltruism.org Forum",
+    "version": "0.8.0",
+
+    "description": "More familiar, clean and compact forum UX, with an improved topics organization",
+    "homepage_url": "https://github.com/icetbr/webext-clearer-effective-altruism-org-forum",
+    "author": "icetbr",
+
+    "icons": {
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "96": "icons/96.png",
+        "128": "icons/128.png"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "webext-clearer-effective-altruism-org-forum@icetbr"
+        },
+        "keywords": ["userstyle", "effective altruism", "minimalist"]
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://forum.effectivealtruism.org/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
+
+
