@@ -10,6 +10,12 @@ More familiar, clean and compact forum UX, with an improved topics organization.
 ## After (original font)
 ![After](media/after_original_font.png)
 
+## Before Comments
+![Before](media/before_comments.png)
+
+## After Comments
+![After](media/after_comments.png)
+
 ## Install
 [Userscript][1]
 
