@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "name": "Clearer EffectiveAltruism.org Forum",
-    "version": "0.8.2",
+    "version": "0.8.4",
 
-    "description": "More familiar, clean and compact forum UX, with an improved topics organization",
+    "description": "More familiar, clean and compact forum UX, with an improved topics organization.",
     "homepage_url": "https://github.com/icetbr/webext-clearer-effective-altruism-org-forum",
     "author": "icetbr",
 

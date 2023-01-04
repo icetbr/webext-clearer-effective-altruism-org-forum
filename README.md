@@ -1,36 +1,38 @@
 # Clearer EffectiveAltruism.org Forum
 More familiar, clean and compact forum UX, with an improved topics organization.
 
-## Before
+### Before
 ![Before](media/before.png)
 
-## After
+### After
 ![After](media/after.png)
 
-## After (original font)
+### After (original font)
 ![After](media/after_original_font.png)
 
-## Before Comments
+### Before Comments
 ![Before](media/before_comments.png)
 
-## After Comments
+### After Comments
 ![After](media/after_comments.png)
 
-## Install
-[Userscript][1]
 
-Incoming: Firefox, Chrome
+## Install
+[Userscript][1] - [Firefox][2] - [Chrome][3].
 
 
 ## Why
 The design of https://forum.effectivealtruism.org is very different from other popular online communities. This makes for an awkward first impression, users like familiarity in their UI.
-
 - compact layout
 - less clutter through hiding, repositioning, styling, collapsing
 - no gray backgrounds with "gray"ish fonts
 - no title trimming, breaking a line when needed
 - easier topics navigation (TODO)
 - less annoying popups (WIP)
+
+
+[Contributing](https://github.com/icetbr/my-projects/blob/main/CONTRIBUTING.md)\
+[License (MIT)](https://choosealicense.com/licenses/mit/)
 
 
 <!-- This is a forum, yet there are no topics / subtopics. It tries to do too much in one place. I don't think questions, articles and events belong in in the same listing. I am aware of the filters, my criticism still stands :-)
