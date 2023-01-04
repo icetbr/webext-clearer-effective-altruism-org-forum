@@ -4,20 +4,15 @@
         "sourceDir": "dist"
     },
     "devDependencies": {
-        "@rollup/plugin-node-resolve": "^14.1.0",
+        "@icetbr/rollup-config-webext": "^1.0.0",
+        "@icetbr/eslint-config": "^1.0.0",
+        "@icetbr/run-config": "^1.0.0",
+        "@icetbr/cspell-config": "^1.0.0",
+        "@icetbr/utils": "1.0.0",
         "chrome-webstore-upload-cli": "^2.1.0",
-        "cspell": "^6.10.1",
-        "eslint": "^8.23.1",
-        "eslint-config-airbnb-base": "^15.0.0",
-        "eslint-plugin-import": "^2.26.0",
-        "rollup": "^2.79.1",
-        "rollup-plugin-cleanup": "^3.2.1",
-        "rollup-plugin-execute": "^1.1.1",
-        "rollup-plugin-userscript-metablock": "^0.3.1",
-        "web-ext": "^7.2.0",
-        "@icetbr/utils": "file:projects/utils"
+        "web-ext": "^7.2.0"
     },
-    "_contributorDevDependencies": {
-        "@icetbr/utils": "github:icetbr/utils"
+    "cspell": {
+        "import": [ "@icetbr/cspell-config/cspell.json" ]
     }
 }
